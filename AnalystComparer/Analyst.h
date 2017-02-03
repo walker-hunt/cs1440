@@ -12,6 +12,8 @@
 class Analyst {
 public:
     Analyst (std::ifstream& inputStream);
+    std::string getName() {return name;}
+    std::string getInitials() {return initials;}
 private:
     std::string name;
     std::string initials;

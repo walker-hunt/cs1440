@@ -1,3 +1,3 @@
-/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir
+/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir

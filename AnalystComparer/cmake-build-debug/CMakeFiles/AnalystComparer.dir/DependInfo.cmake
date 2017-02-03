@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/Analyst.cpp" "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Analyst.cpp.o"
-  "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/Comparer.cpp" "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
-  "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/History.cpp" "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/History.cpp.o"
-  "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/PSale.cpp" "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/PSale.cpp.o"
-  "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/Utils.cpp" "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
-  "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/main.cpp" "/home/snaggy/C++/methods/analystComparer/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.o"
+  "/home/snaggy/Repositories/cs1440/AnalystComparer/Analyst.cpp" "/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Analyst.cpp.o"
+  "/home/snaggy/Repositories/cs1440/AnalystComparer/Comparer.cpp" "/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
+  "/home/snaggy/Repositories/cs1440/AnalystComparer/History.cpp" "/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/History.cpp.o"
+  "/home/snaggy/Repositories/cs1440/AnalystComparer/PSale.cpp" "/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/PSale.cpp.o"
+  "/home/snaggy/Repositories/cs1440/AnalystComparer/Utils.cpp" "/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
+  "/home/snaggy/Repositories/cs1440/AnalystComparer/main.cpp" "/home/snaggy/Repositories/cs1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

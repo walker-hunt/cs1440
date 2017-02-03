@@ -1,6 +1,7 @@
 #include "Comparer.h"
 #include <fstream>
 #include <iostream>
+#include "Analyst.h"
 
 int main(int argv, char* argc[])
 {
@@ -12,6 +13,4 @@ int main(int argv, char* argc[])
     // which creates the output file
     if (comparer.load(argv, argc)==0)
         comparer.compare();
-
-    std::cout <<
 }

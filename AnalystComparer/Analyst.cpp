@@ -3,9 +3,8 @@
 //
 
 #include "Analyst.h"
-#include <fstream>
 
- Analyst::Analyst(std::ifstream &inputStream)
+Analyst::Analyst(std::ifstream &inputStream)
  {
      std::getline(inputStream, name);
      std::getline(inputStream, initials);

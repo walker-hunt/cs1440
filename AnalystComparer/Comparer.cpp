@@ -20,15 +20,12 @@ int Comparer::load(int argv, char* argc[])
     m_outputFilename = argc[1];
     m_analystCount = argv - 2;
     // TODO: Allocate a container, like an array of pointers, to hold the analysts
-    //
-    // Example Code:
-    // m_analysts = new Analyst*[m_analystCount];
 
     int analystIndex = 0;
     for (int i = 0; i < m_analystCount; i++)
     {
         std::ifstream inputStream(argc[2 + analystIndex]);
-
+        m_analysts.push_back(Analyst(inputStream));
         // TODO: Create a new analyst, load it from the input stream, and put it into the container if that load succeeded
         //
         // Example code:
@@ -39,6 +36,8 @@ int Comparer::load(int argv, char* argc[])
         // }
         // else
         //      analystIndex++;
+
+
     }
 
     loadSymbols();
@@ -104,6 +103,7 @@ void Comparer::loadSymbols()
 void Comparer::outputInvestorNames(std::ofstream& outputStream) const
 {
     // TODO: Write out investor names
+    for
 }
 
 void Comparer::outputOverallPerformance(std::ofstream& outputStream) const
