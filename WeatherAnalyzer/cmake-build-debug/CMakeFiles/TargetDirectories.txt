@@ -1,0 +1,3 @@
+/home/snaggy/CLionProjects/WeatherAnalyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/snaggy/CLionProjects/WeatherAnalyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/snaggy/CLionProjects/WeatherAnalyzer/cmake-build-debug/CMakeFiles/WeatherAnalyzer.dir
